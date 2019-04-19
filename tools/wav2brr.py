@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 from __future__ import with_statement, division, print_function
 from contextlib import closing
 import array, wave, sys, os, optparse
